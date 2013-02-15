@@ -1,0 +1,21 @@
+!656;s
+J
+SAU0PATH+=%<JGRASP_PATHS>%;
+SCU0PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+S+U0PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+SJU0CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012CLASSPATH+=.%;\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from http://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012
+SOU0PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!1411;u
+a0	b7	c255	d%\\011Images%s1.png\011%\\011Images%s10.png\011%\\011Images%s11.png\011%\\011Images%s12.png\011%\\011Images%s13.png\011%\\011Images%s14.png\011%\\011Images%s15.png\011%\\011Images%s16.png\011%\\011Images%s17.png\011%\\011Images%s18.png\011%\\011Images%s19.png\011%\\011Images%s2.png\011%\\011Images%s20.png\011%\\011Images%s21.png\011%\\011Images%s22.png\011%\\011Images%s23.png\011%\\011Images%s24.png\011%\\011Images%s25.png\011%\\011Images%s26.png\011%\\011Images%s27.png\011%\\011Images%s28.png\011%\\011Images%s29.png\011%\\011Images%s3.png\011%\\011Images%s30.png\011%\\011Images%s31.png\011%\\011Images%s32.png\011%\\011Images%s33.png\011%\\011Images%s34.png\011%\\011Images%s35.png\011%\\011Images%s36.png\011%\\011Images%s37.png\011%\\011Images%s38.png\011%\\011Images%s39.png\011%\\011Images%s4.png\011%\\011Images%s40.png\011%\\011Images%s41.png\011%\\011Images%s42.png\011%\\011Images%s43.png\011%\\011Images%s44.png\011%\\011Images%s45.png\011%\\011Images%s46.png\011%\\011Images%s47.png\011%\\011Images%s48.png\011%\\011Images%s49.png\011%\\011Images%s5.png\011%\\011Images%s50.png\011%\\011Images%s51.png\011%\\011Images%s52.png\011%\\011Images%s6.png\011%\\011Images%s7.png\011%\\011Images%s8.png\011%\\011Images%s9.png\011%\\011Images%sb1fv.png	f%\011%u%u%uDesktop%sCircle of Death.jar	g%\011Circle of Death.zip	hManifest-Version\0111.0\011Main-Class\011CircleOfDeath	iCircleOfDeath!63;g
+%\011CardPanel.java
+%\011CardDeck.java
+%\011CircleOfDeath.java
+!54;f
+%	CardPanel.java
+%	CardDeck.java
+%	CircleOfDeath.java
